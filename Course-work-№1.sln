@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Курсова робота№1", "Курсова робота№1\Курсова робота№1.vcxproj", "{0CDC9444-9EFF-4E8D-96CB-17E35ECE55D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{01CB763F-CC9D-474B-B653-74897851168F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CDC9444-9EFF-4E8D-96CB-17E35ECE55D5}.Debug|x64.ActiveCfg = Debug|x64
+		{0CDC9444-9EFF-4E8D-96CB-17E35ECE55D5}.Debug|x64.Build.0 = Debug|x64
+		{0CDC9444-9EFF-4E8D-96CB-17E35ECE55D5}.Debug|x86.ActiveCfg = Debug|Win32
+		{0CDC9444-9EFF-4E8D-96CB-17E35ECE55D5}.Debug|x86.Build.0 = Debug|Win32
+		{0CDC9444-9EFF-4E8D-96CB-17E35ECE55D5}.Release|x64.ActiveCfg = Release|x64
+		{0CDC9444-9EFF-4E8D-96CB-17E35ECE55D5}.Release|x64.Build.0 = Release|x64
+		{0CDC9444-9EFF-4E8D-96CB-17E35ECE55D5}.Release|x86.ActiveCfg = Release|Win32
+		{0CDC9444-9EFF-4E8D-96CB-17E35ECE55D5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1E9E05A-FF76-4A2D-8FE1-1D31A539673E}
+	EndGlobalSection
+EndGlobal

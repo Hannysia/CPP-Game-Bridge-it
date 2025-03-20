@@ -1,0 +1,4 @@
+C:\Users\anykn\source\repos\Курсова робота№1\Курсова робота№1\x64\Debug\Курсова робота№1.vcxproj.AssemblyReference.cache
+C:\Users\anykn\source\repos\Курсова робота№1\Курсова робота№1\x64\Debug\Курсова робота№1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\anykn\source\repos\Курсова робота№1\Курсова робота№1\x64\Debug\Курсоваробота1.MyForm.resources
+C:\Users\anykn\source\repos\Курсова робота№1\Курсова робота№1\x64\Debug\Курсова робота№1.vcxproj.GenerateResource.cache

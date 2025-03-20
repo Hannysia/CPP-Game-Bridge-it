@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+C:\Users\anykn\source\repos\Курсова робота№1\Курсова робота№1\BoardElements.h(75,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\anykn\source\repos\Курсова робота№1\Курсова робота№1\BoardElements.h(75,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\anykn\source\repos\Курсова робота№1\Курсова робота№1\BoardElements.h(139,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\anykn\source\repos\Курсова робота№1\Курсова робота№1\BoardElements.h(139,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\anykn\source\repos\Курсова робота№1\Курсова робота№1\BoardElements.h(140,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\anykn\source\repos\Курсова робота№1\Курсова робота№1\BoardElements.h(140,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\anykn\source\repos\Курсова робота№1\Курсова робота№1\MyForm.cpp(6,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Курсова робота№1.vcxproj -> C:\Users\anykn\source\repos\Курсова робота№1\x64\Debug\Курсова робота№1.exe
