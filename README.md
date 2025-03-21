@@ -14,12 +14,6 @@ This repository contains **Bridge It**, a turn-based puzzle game implemented in 
 - **GDI+** for rendering graphical elements
 - **Event-driven programming** for handling player actions
 
-## Project Structure
-- **/src/** – Contains the main game logic and rendering code.
-- **/assets/** – Stores game-related images or design elements.
-- **/docs/** – Project documentation and resources.
-- **README.md** – Project documentation.
-
 ## How to Play
 1. Launch the game executable.
 2. Players take turns placing bridges to connect islands.
